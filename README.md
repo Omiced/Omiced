@@ -12,9 +12,7 @@ I am a future computer engineer, currently learning about frontend web developme
 * 🤝  I'm open to collaborating on any project where I can put into practice the knowledge I have been acquiring.
 * ⚡  I love capybaras and dogs
 
-<a href="https://www.twitter.com/josuecanov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/josuecanov?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 

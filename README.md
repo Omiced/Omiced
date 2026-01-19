@@ -30,3 +30,8 @@ I am a future computer engineer, currently learning about frontend web developme
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Omiced" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vicanjo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+## Bootdev
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/f08ffb10-c763-4b0d-8222-27d02a0c5fcb/thumbnail" >
+</p>
